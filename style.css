@@ -1,3 +1,12 @@
+:root {
+  --layout-mobile: 375px;
+  --layout-desktop: 1440px;
+  --colors-purple: hsl(257, 40%, 49%);
+  --colors-magenta: hsl(300, 69%, 71%);
+  --typo-headings: "Poppins", sans-serif;
+  --typo-body: "Open Sans", sans-serif;
+}
+
 /* Reset CSS */
 html,
 body,
